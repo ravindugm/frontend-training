@@ -12,3 +12,9 @@
 - `ng serve --open` - Open web browser and build the project.
 - `ng serve --port 5100` - Change port to `5100`.
 - `ng serve --port 5100 --open` - Change port to `5100` and open browser.
+
+## Generate a new component
+- `ng generate component <component name>` - Generate a new component.
+
+## Generate a new class
+- `ng generate class <class name>` - Generate a new class.
